@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 stephen.jaya StafCS 4096 Feb 14 17:01 .
+drwx--x--x  3 stephen.jaya StafCS 4096 Feb 14 17:01 ..
+drwxr-xr-x  8 stephen.jaya StafCS 4096 Feb 14 16:55 .git
+-rw-r--r--  1 stephen.jaya StafCS    7 Feb 14 16:46 README.md
+drwxr-xr-x  2 stephen.jaya StafCS 4096 Feb 14 16:51 key
+-rw-r--r--  1 stephen.jaya StafCS    0 Feb 14 17:01 lab01.txt
+drwxr-xr-x  2 stephen.jaya StafCS 4096 Feb 14 16:51 log
+drwxr-xr-x  2 stephen.jaya StafCS 4096 Feb 14 16:54 sandbox
+drwxr-xr-x  2 stephen.jaya StafCS 4096 Feb 14 17:01 week00
+drwxr-xr-x  2 stephen.jaya StafCS 4096 Feb 14 16:50 week01
+drwxr-xr-x  2 stephen.jaya StafCS 4096 Feb 14 16:50 week02
+drwxr-xr-x  2 stephen.jaya StafCS 4096 Feb 14 16:50 week03
+drwxr-xr-x  2 stephen.jaya StafCS 4096 Feb 14 16:50 week04
+drwxr-xr-x  2 stephen.jaya StafCS 4096 Feb 14 16:50 week05
+drwxr-xr-x  2 stephen.jaya StafCS 4096 Feb 14 16:50 week06
+drwxr-xr-x  2 stephen.jaya StafCS 4096 Feb 14 16:50 week07
+drwxr-xr-x  2 stephen.jaya StafCS 4096 Feb 14 16:51 week08
+drwxr-xr-x  2 stephen.jaya StafCS 4096 Feb 14 16:51 week09
+drwxr-xr-x  2 stephen.jaya StafCS 4096 Feb 14 16:51 week10
+drwxr-xr-x  2 stephen.jaya StafCS 4096 Feb 14 16:51 xtra
+/home/fasilkom/mahasiswa/s/stephen.jaya/os171/week01
