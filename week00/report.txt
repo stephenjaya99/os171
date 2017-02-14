@@ -1,0 +1,3 @@
+#Stephen_Jaya
+Task in Week00 explained the tools and environment used for lab assignments, by making github profile and connecting to badak's server.
+
