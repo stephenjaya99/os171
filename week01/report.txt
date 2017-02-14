@@ -1,0 +1,1 @@
+week01 introduced us to the basics of using Git, CLI command, and Scipting. Which is really interesting :)
