@@ -16,3 +16,9 @@ w04-170310-02-PS-Task04
 w04-170310-02-LR-Reading for Task04
 w04-170310-03-PS-Task04
 w04-170310-22-PS-Task04
+
+w05-170314-13-PS-Task05
+w05-170314-13-LR-Reading and Analyzing the Program given
+w05-170314-14-LR-Analyzing the Program given
+w05-170314-15-PS-Task05
+
