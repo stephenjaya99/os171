@@ -33,4 +33,19 @@ w07-170422-13-PS-Task07
 w07-170422-13-PS-Task07
 w07-170422-14-PS-Task07
 
+w08-170429-13-PS-Task08
+w08-170429-13-PS-Task08
+w08-170429-14-PS-Task08
+w08-170429-14-PS-Task08
+w08-170429-15-PS-Task08
+w08-170429-15-LR-Reading about Sockets on the internet
+w08-170429-15-PS-Task08
+w08-170429-16-PS-Task08
 
+w10-170519-19-PS-Task09
+w10-170519-20-LR-Watching video about encryption
+w10-170520-00-PS-Task09
+w10-170520-00-PS-Task09
+w10-170520-13-PS-Task10
+w10-170520-13-LR-Watching video about Kernels
+w10-170520-14-PS-Task10
